@@ -1,0 +1,24 @@
+name: ec_2021_gliderviz
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - datashader
+  - geoviews
+  - gsw
+  - fsspec
+  - holoviews=1.14.2
+  - panel=0.11.1
+  - hvplot
+  - jupyterlab=2
+  - jupyter-panel-proxy
+  - netcdf4=1.5.4
+  - numexpr
+  - pandas
+  - pip=20
+  - pykrige
+  - pyarrow
+  - xarray=0.16.2
+  - intake
+  - intake-parquet
+  - glidertools
