@@ -1,0 +1,9 @@
+{
+    "title": "Glider Viz Panel",
+    "creators": [
+           {"name": "Dhruv Balwada", "affiliation": "School of Oceanography, University of Washington",  "orcid": "0000-0001-6632-0187"},
+    {"name": "Scott Henderson", "affiliation": "Earth and Space Sciences, University of Washington",   "orcid": "0000-0003-0624-4965"},
+    {"name": "Alison R Gray", "affiliation": "School of Oceanography, University of Washington",   "orcid": "0000-0002-1644-7654"} 
+    ],
+    "keywords": ["gliders", "interactive visualization", "ocean tracers", "submesoscale variability"]
+}
