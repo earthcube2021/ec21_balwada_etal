@@ -1,5 +1,10 @@
 # ec2021_balwada_etal
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496355.svg)](https://doi.org/10.5281/zenodo.5496355)
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_balwada_etal/HEAD?filepath=DB_01_Glider_Viz_Panel.ipynb) (For accessing a jupyter lab environment to interact with the notebook)
 
 
